@@ -7,7 +7,7 @@ const options = {
 	}
 };
 
-const weatherDataContainer = document.getElementById('weather-data');
+const weatherDataContainer = document.getElementById('mostrarData');
 
 try {
 	async function fetchData() {
